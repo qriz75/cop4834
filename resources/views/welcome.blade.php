@@ -83,16 +83,21 @@
                 <div class="title m-b-md">
                    {{ config('app.name') }}
                 </div>
-
+                <p><a href="http://roneaglin.online/COP4834/assignments/assignment-2-publishing-to-the-web/">Course Website</a></p>
+              <p>
+              </p>
+                  built with:
+              </p>
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://vapor.laravel.com">Vapor</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    
+                    <a href="https://codeanywhere.com/">IDE</a>
+                    <a href="https://www.hostmonster.com/">Hosting</a>
+                    <a href="https://www.vandyke.com/products/securecrt/">SSH-Client</a>
+                    <a href="https://www.nginx.com/">Webserver</a>
+                    <a href="https://www.mysql.com/">Database</a>
+                    <a href="https://laravel.com/">Laravel</a>
+
+                    <a href="https://github.com/qriz75/cop4834">GitHub</a>
                 </div>
             </div>
         </div>
